@@ -14,3 +14,54 @@ Description:
 
 This project helps farmers choose the best crop to grow based on their soil and weather conditions. By entering values like soil nutrients (N, P, K), pH, temperature, humidity, and rainfall, the system suggests the most suitable crops. It also gives fertilizer advice to improve soil quality. This tool makes farming decisions easier and more scientific.
 
+Tech Stack:
+
+Programming Language: Python
+Data Processing: Pandas, NumPy
+Machine Learning: Scikit-learn (SVM Classifier)
+Web Framework/UI: Streamlit
+Model Serialization: Pickle
+Dataset: Kaggle Crop Recommendation Dataset
+Version Control: Git & GitHub
+
+Installation & Running:
+
+1. Prerequisites
+   Python 3.8+ installed on your computer.
+   pip (Python package manager).
+
+2. Clone or Download the Repository
+
+   git clone https://github.com/AnmolChandrakar/crop-fertilizer-recommendation.git
+   cd crop-fertilizer-recommendation
+   (Or download the ZIP from GitHub and extract it.)
+
+3. Install Dependencies
+
+   pip install -r requirements.txt
+
+4. Run the Streamlit App
+
+   streamlit run app.py
+   
+   The app will open in your web browser.
+
+5. Use the Application
+
+   Enter soil and weather parameters: N, P, K, temperature, humidity, pH, rainfall.
+
+   Click “Recommend Crop”.
+
+   View:
+
+   Top 3 crop recommendations.
+
+   Fertilizer advice (NPK).
+
+   Water requirement and how much more water is needed.
+
+6. Stop the Server
+
+   Press Ctrl + C in the terminal.
+
+
