@@ -4,6 +4,10 @@ Team Members:
 3. Blesson Oddu_(Roll_no.:24CSEAIML234)_(reg_no.:24UG010729)
 4. Ankit Kumar Nayak_(Roll_no.:24CSEAIML233)_(Reg_no:24UG010728)
 
+## Project Presentation
+[Download the PPT here](Crop_Fertilizer_recommendation(TEAM(SC1)_10).pptx)
+
+
 Problem statement:
 
 Farmers often face difficulty in selecting the right crop for cultivation due to a lack of scientific knowledge about soil composition, weather conditions, and fertilizer requirements. Wrong crop selection or improper fertilizer use leads to low yield, poor soil health, and financial losses.
